@@ -2,7 +2,7 @@
 This is a implementation for *Scene Segmentation-Based
 Luminance Adjustment*.
 
-[Project page](https://sites.google.com/view/kinoshita-yuma/%E7%A0%94%E7%A9%B6%E6%A5%AD%E7%B8%BE/scene-segmentation-based-luminance-adjustment)
+[Project page](https://sites.google.com/view/kinoshita-yuma/%E7%A0%94%E7%A9%B6%E6%A5%AD%E7%B8%BE/scene-segmentation-based-luminance-adjustment),
 [DOI](https://doi.org/10.1109/TIP.2019.2906501)
 
 When you use this implementation for your research work,
