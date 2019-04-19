@@ -1,10 +1,11 @@
 # Scene Segmentation-Based Luminance Adjustment
 This is a implementation for *Scene Segmentation-Based
 Luminance Adjustment*.
-[DOI](http://https://doi.org/10.1109/TIP.2019.2906501)
+[DOI](https://doi.org/10.1109/TIP.2019.2906501)
 
 When you use this implementation for your research work,
 please cite the paper.
+
 The following is the bibtex entry.
 ```
 @article{kinoshita2019scene,
@@ -29,4 +30,4 @@ git clone https://github.com/popura/ssla.git
 ```
 
 # Usage
-Run src/example.m with MATLAB
+Run `ssla/src/example.m` with MATLAB.
