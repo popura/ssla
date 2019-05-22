@@ -1,5 +1,5 @@
 # Scene Segmentation-Based Luminance Adjustment
-This is a implementation for *Scene Segmentation-Based
+This is an implementation for *Scene Segmentation-Based
 Luminance Adjustment*.
 
 [Project page](https://sites.google.com/view/kinoshita-yuma/%E7%A0%94%E7%A9%B6%E6%A5%AD%E7%B8%BE/scene-segmentation-based-luminance-adjustment),
